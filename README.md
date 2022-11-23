@@ -36,7 +36,7 @@ There are `4 different variables`, around `40 observations` in the dataset.
 1. Clone this repository
 
 ```
-https://github.com/nedimcanulusoy/AB-Testing
+https://github.com/nedimcanulusoy/AB-Testing.git
 ```
 
 2. Change directory to the cloned repository
